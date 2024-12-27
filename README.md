@@ -58,8 +58,9 @@ O "Garagem Virtual" é um sistema desenvolvido para facilitar o gerenciamento de
 
 ### **5. Saindo do Sistema**
 
-1. Para sair, clique no botão **Logout**, localizado no canto superior direito da página.
-2. Você será redirecionado para a página inicial.
+1. Para sair, passe sobre o botão **Perfil**, localizado no canto superior direito da página.
+2. Clique em **Logout** para sair da sua conta
+3. Você será redirecionado para a página inicial de Login.
 
 ---
 
@@ -71,7 +72,7 @@ O "Garagem Virtual" é um sistema desenvolvido para facilitar o gerenciamento de
 - **Upload de Imagens:** Possibilidade de adicionar fotos dos veículos.
 - **Edição e Exclusão:** Gerencie os registros existentes.
 - **Logout:** Finalize a sessão com segurança.
--  **Filtro:** Pesquise os carros com mais facilidade usando o filtro na página de visualização.
+- **Filtro:** Pesquise os carros com mais facilidade usando o filtro na página de visualização.
 
 ---
 
@@ -79,21 +80,24 @@ O "Garagem Virtual" é um sistema desenvolvido para facilitar o gerenciamento de
 
 - **Navegador Recomendado:** Google Chrome, Mozilla Firefox ou Microsoft Edge (versões recentes).
 - **Conexão com a Internet:** Necessária para acessar o sistema.
-- **Resolução Mínima da Tela:** 1280x720 pixels.
+- **Resolução Mínima da Tela:** 1126x720 pixels.
 
 ---
 
 ## **Dicas de Uso**
 
 - Certifique-se de preencher todas as informações obrigatórias no cadastro de veículos.
-- Use imagens claras e bem definidas ao fazer o upload de fotos.
+- Use imagens no formato PNG, com o fundo removido.
+- Para melhores resultados, a foto dos carros devem estar virados para a direita.
 - Verifique periodicamente os registros para manter os dados atualizados.
 
 ---
 
 ## **Suporte**
 
-Caso encontre problemas ou tenha dúvidas, entre em contato com o suporte através do email: **[suporte@garagemvirtual.com](mailto:suporte@garagemvirtual.com)**.
+Caso encontre problemas ou tenha dúvidas, entre em contato com o suporte através do email: **[jrodriguesdonascimento391@gmail.com
+](mailto:jrodriguesdonascimento391@gmail.com
+)**.
 
 ---
 
